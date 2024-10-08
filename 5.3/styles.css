@@ -1,0 +1,15 @@
+.row {
+    display: flex; /* Establecemos el contenedor como un flex container */
+  }
+  
+  .col {
+    flex: 1; /* Hace que cada columna ocupe el mismo espacio disponible */
+  }
+  
+  .col-2 {
+    flex: 2; /* Ocupa el doble de espacio que una columna normal */
+  }
+  
+  .col-3 {
+    flex: 3; /* Ocupa el triple de espacio que una columna normal */
+  }
