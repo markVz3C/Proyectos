@@ -1,0 +1,30 @@
+.nav{
+    background-color: #333333;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+}
+
+
+h1{
+    font: oblique bold 120% cursive;
+    color: rgb(209, 209, 209);
+}
+
+a{
+    text-decoration: none;
+    color: #e4e3e3;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-links{
+    display: flex;
+    justify-content:space-between;
+}
+
+.btn{
+    background-color: #17a2b8;
+    border: none;
+    color:white;
+}
